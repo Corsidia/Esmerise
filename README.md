@@ -1,2 +1,1 @@
-# Esmerise
-Esmerise
+# Esmerise issue tracker
